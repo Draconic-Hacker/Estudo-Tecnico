@@ -1,9 +1,8 @@
 <template>
-<div class="--bs-primary-bg-subtle">
-oi
-</div>
+<div>teste</div>
 </template>
 <script setup>
 
 </script>
-<style scoped></style>
+<style scoped>
+</style>
